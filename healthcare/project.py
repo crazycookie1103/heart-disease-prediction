@@ -28,7 +28,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("❤️ Heart Disease Prediction App")
+st.title("❤️ Heart Disease Prediction")
 st.markdown("""
 Enter your details below and find out your risk of heart disease.
 """)
@@ -79,3 +79,4 @@ if st.button("Predict Heart Disease"):
 
 # ---- Footer ----
 st.markdown("---")
+
