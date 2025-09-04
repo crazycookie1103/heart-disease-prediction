@@ -32,10 +32,9 @@ This project explores different machine learning algorithms to build a predictiv
 ## Project Structure
 ```
 heart-disease-prediction/
-│── app.py              # Streamlit app
+│── project.py              # Streamlit app
 │── models/             # saved ML models (if applicable)
-│── dataset.csv         # dataset (if shareable)
-│── requirements.txt    # dependencies
+│── heart.csv         # dataset 
 │── README.md           # documentation
 ```
 
@@ -64,7 +63,7 @@ heart-disease-prediction/
 
 ## Dataset
 The dataset includes features such as age, sex, blood pressure, cholesterol levels, and other health indicators to predict the risk of heart disease.  
-kaggle heart disease dataset
+heart.csv
 
 ---
 
