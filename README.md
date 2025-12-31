@@ -71,4 +71,3 @@ heart.csv
 - Heart Disease dataset from kaggle
 - scikit-learn documentation  
 - Streamlit community  
-[README.md](https://github.com/user-attachments/files/22138043/README.md)
