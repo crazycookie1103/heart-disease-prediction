@@ -65,14 +65,7 @@ heart-disease-prediction/
 The dataset includes features such as age, sex, blood pressure, cholesterol levels, and other health indicators to predict the risk of heart disease.  
 heart.csv
 
----
 
-## Future Improvements
-- Hyperparameter tuning for higher accuracy  
-- Feature importance visualization  
-- Online deployment using Streamlit Cloud or similar platforms  
-
----
 
 ## Acknowledgments
 - Heart Disease dataset from kaggle
